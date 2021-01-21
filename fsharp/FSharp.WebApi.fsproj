@@ -11,4 +11,8 @@
     <Compile Include="Program.fs" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AtlasEngine.Client.Extensions.Hosting" Version="1.2.0" />
+  </ItemGroup>
+
 </Project>
